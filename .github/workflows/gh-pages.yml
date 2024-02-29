@@ -40,4 +40,4 @@ jobs:
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
-          external_repository: polyacetal/polyacetal.github.io
+          external_repository: polyacetal/devPortfolio
